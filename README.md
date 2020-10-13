@@ -11,4 +11,4 @@ Untuk menginstall Git, Anda perlu mengunduh file-nya terlebih dahulu di situs re
 
 ## 2. Install Git
 Setelah selesai mengunduh file Git, buka setup aplikasi Git untuk memulai proses instalasi. Halaman awal setelah Anda membuka setup aplikasi Git adalah tampilan Document License dari Git. Klik Next untuk melanjutkan instalasi.
-<img src="https://lh6.googleusercontent.com/uI9FisJXEkjONu7tR0Aql8JgPrJ6MSlGynapJ…XNAg3rz-M2apI7jx6bJkwdmipJrhxsM3LG55fC2Mi7WpnC0C8meSgKSwdxClJkbhCW1IQNMY_s" alt="Cara Install Git" class="lazyloaded" data-ll-status="loaded">
+
