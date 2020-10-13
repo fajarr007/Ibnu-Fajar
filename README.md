@@ -1,8 +1,4 @@
-# Heading level 1Cara Menggunakan Git. 
-Di artikel ini kami akan membahas lengkap soal Git, dari cara install Git, cara login ke Git, hingga cara menggunakan Git.
-
-Cara Install Git di Windows dan Linux
-Sebelum mempelajari bagaimana cara menggunakan Git, Anda perlu menginstalnya terlebih dahulu di perangkat yang Anda gunakan. Anda bisa memasang Git baik di Windows maupun di Linux. Berikut adalah panduan memasang Git di kedua sistem operasi tersebut:
+# Heading leuan memasang Git di kedua sistem operasi tersebut:
 
 Cara Install Git di Windows
 Cara install Git di Windows terdiri dari 10 langkah. Berikut adalah penjelasannya:
