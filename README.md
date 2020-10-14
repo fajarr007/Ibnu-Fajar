@@ -30,4 +30,4 @@ Untuk mengedit script melalui Git, Anda memerlukan file editor. Anda bebas mengg
 
 
 ## 7. Atur Path Environment
-Selanjutnya adalah pengaturan Path Environment. Path Environment berfungsi untuk mengeksekusi perintah perintah pada Git. Pilih
+Selanjutnya adalah pengaturan Path Environment. Path Environment berfungsi untuk mengeksekusi perintah perintah pada Git. Pilih **_Git from the command line and also from 3rd-party software_** agar saat menjalankan perintah Git dapat dikenali di **Command Prompt (CMD)**  
