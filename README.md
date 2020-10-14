@@ -15,7 +15,7 @@ Setelah selesai mengunduh file Git, buka setup aplikasi Git untuk memulai proses
 
 ## 3. Tentukan Lokasi Instalasi Git
 Selanjutnya, pilih lokasi untuk install Git pada komputer Anda. Pada tutorial ini kami menginstall di lokasi C:\Program Files\Git. Setelah menentukan lokasi instalasi Git, klik Next untuk melanjutkan.
-
+![image](https://user-images.githubusercontent.com/72786548/95966612-8c9bac00-0e35-11eb-80e3-1c0ca43d35af.png)
 
 ## 4. Pilih Komponen Tambahan
 Kemudian pilih komponen tambahan untuk install Git. Fungsi komponen ini adalah untuk memperlancar penggunaan Git dan mendukung file dengan kapasitas besar. Sesuaikan komponen tambahan yang dipilih seperti pada gambar di bawah ini. Jika sudah klik Next untuk melanjutkan instalasi.
