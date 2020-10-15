@@ -102,13 +102,15 @@ $ git config --list
 Langkah kedua dalam belajar menggunakan Git adalah Anda harus login ke dalam website GitHub. Github dan Git memiliki hubungan khusus, yaitu Git yang berperan sebagai version control system dan **Github** menjadi hosting atau sebagai penyimpan kode pemrograman.
 Setelah Anda login, akan muncul tampilan dashboard dari GitHub seperti  gambar di bawah ini.
 
-
+![image](https://user-images.githubusercontent.com/72786548/96131837-e67a9f80-0f23-11eb-9c5b-cc475df66a84.png)
 
 ## 3. Buat Repository
 Setelah berhasil login ke GitHub, Anda bisa mulai membuat repository. Klik tombol **New** pada menu **Repositories** untuk membuat repository baru.
 
-cara install git
-cara install git
+![image](https://user-images.githubusercontent.com/72786548/96132124-3194b280-0f24-11eb-80de-0c2caf1a2fa9.png)
+
+![image](https://user-images.githubusercontent.com/72786548/96132204-512bdb00-0f24-11eb-92d4-63254e0eb3d6.png)
+
 Kemudian Anda akan diarahkan pada halaman untuk membuat repository baru seperti gambar di bawah ini.
 
 Anda perlu mengisi detail informasi berikut:
@@ -123,22 +125,27 @@ Setelah mengisi detail informasi di atas, klik **Create Repository**.
 ##  4. Buat Folder pada Windows
 Selanjutnya, Anda perlu membuat folder pada local disk komputer Anda. Fungsinya adalah untuk menyimpan update file dari repository GitHub yang telah Anda buat.
 
+![image](https://user-images.githubusercontent.com/72786548/96132291-6f91d680-0f24-11eb-8760-8a2406b38e01.png)
 
 ## 5. Buka Folder Menggunakan Git Bash
-cara install git
-Setelah berhasil membuat folder pada local disk komputer Anda,  buka folder tersebut dengan cara klik kanan lalu pilih **Git Bash Here**. Setelah itu, **Command Prompt** akan muncul seperti di bawah ini. 
+![image](https://user-images.githubusercontent.com/72786548/96132366-889a8780-0f24-11eb-9926-f74bf3608a6c.png)
 
-cara install git
+Setelah berhasil membuat folder pada local disk komputer Anda,  buka folder tersebut dengan cara klik kanan lalu pilih **Git Bash Here**. Setelah itu, **Command Prompt** akan muncul seperti di bawah ini
+
+![image](https://user-images.githubusercontent.com/72786548/96132481-a831b000-0f24-11eb-918e-0e431af6f9f7.png)
+
 ## 6. Ubah Folder Menjadi Repository
 Setelah itu, ubah folder tersebut menjadi repository menggunakan perintah berikut:
 
 $ git init
-cara install git
+![image](https://user-images.githubusercontent.com/72786548/96132576-c4cde800-0f24-11eb-83c0-2aa3d1b77a2b.png)
+
 ## 7. Tambahkan File ke Repository
 Untuk bisa menambahkan file ke repository GitHub, Anda perlu menerapkan langkah-langkah di bawah ini:
 
-Buat file di folder yang sudah dibuat (Test Git). Contohnya, di sini kami membuat file index.php
-Buka GitBash lalu masukkan perintah berikut:
+- Buat file di folder yang sudah dibuat (Test Git). Contohnya, di sini kami membuat file index.php
+- Buka GitBash lalu masukkan perintah berikut:
+
 $ git add index.php
 Perintah tersebut tidak akan menghasilkan output apa pun.
 
@@ -148,25 +155,29 @@ Selanjutnya, Anda perlu membuat Commit. Commit berfungsi untuk menambahkan updat
 $ git commit -m "first commit"
 Pada tutorial ini kami membuat first commit sebagai Commit pertama kami. Anda bebas membuat membuat nama Commit apa saja.
 
-cara install git
+![image](https://user-images.githubusercontent.com/72786548/96132975-01014880-0f25-11eb-8afa-a712e6864cb8.png)
+
 ## 9. Remote Repository Github
 Remote repository berfungsi untuk mengupload file yang telah Anda buat sebelumnya di local disk. Masukkan perintah berikut ini untuk melakukan remote repository:
 
 $ git remote add origin git@github.com:UserNameGit/NamaRepository.git
 Perintah di atas tidak akan menghasilkan output apa pun.
 
-cara install git
+![image](https://user-images.githubusercontent.com/72786548/96133494-255d2500-0f25-11eb-852c-625abbfd148f.png)
+
 ## 10. Push ke GitHub 
 Langkah terakhir adalah push ke GitHub Push ini berfungsi untuk mengupload hasil akhir dari langkah-langkah di atas. Masukkan perintah berikut untuk melakukan push ke GitHub:
 
 git push -u origin master
 Perintah di atas akan menampilkan pop up sign in GitHub. Anda perlu login untuk melanjutkan proses push ke GitHub. 
 
-cara install git
+![image](https://user-images.githubusercontent.com/72786548/96133821-3a39b880-0f25-11eb-8beb-c76e14c33d17.png)
+
 Jika proses login berhasil, akan muncul tampilan Command Prompt seperti di bawah:
 
-cara install git
+![image](https://user-images.githubusercontent.com/72786548/96134006-52a9d300-0f25-11eb-81e7-786b8b94dc4d.png)
+
 ## 11. Cek File 
 Setelah itu, cek repository yang telah Anda buat. Anda akan mendapati file-file yang telah ditambahkan sebelumnya. Pada tutorial ini kami menambahkan tiga file, yaitu index.php, single.php, dan README.txt. 
 
-cara install git
+![image](https://user-images.githubusercontent.com/72786548/96134147-648b7600-0f25-11eb-96a0-198a013a42f4.png)
