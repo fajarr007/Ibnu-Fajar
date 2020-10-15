@@ -20,7 +20,7 @@ Selanjutnya, pilih lokasi untuk install Git pada komputer Anda. Pada tutorial in
 
 ## 4. Pilih Komponen Tambahan
 Kemudian pilih komponen tambahan untuk install Git. Fungsi komponen ini adalah untuk memperlancar penggunaan Git dan mendukung file dengan kapasitas besar. Sesuaikan komponen tambahan yang dipilih seperti pada gambar di bawah ini. Jika sudah klik Next untuk melanjutkan instalasi.
-
+![image](https://user-images.githubusercontent.com/72786548/96060234-25740b00-0eba-11eb-9674-1bc9e0f69f52.png)
 
 ## 5. Tentukan Nama Aplikasi Git
 Sebenarnya Anda bebas mengganti nama aplikasi Git yang akan ditampilkan pada Start Menu. Akan tetapi, demi kemudahan saat mencari aplikasi ini, sebaiknya gunakan nama Git saja.
