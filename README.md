@@ -62,6 +62,16 @@ Terdapat beberapa opsi ekstra yang bisa Anda pilih. Pertama, pilih Enable File S
 Setelah menambahkan konfigurasi ekstra pada Git, Anda bisa memulai proses instalasi Git. Klik **Install** untuk melanjutkan proses.
 
 ![image](https://user-images.githubusercontent.com/72786548/96073104-f072b300-0ecf-11eb-911d-263380839a23.png)
+
 Berikut ini adalah tampilan proses instalasi Git. Tunggu hingga proses selesai dan Anda bisa menggunakan Git pada Windows.
+
 ![image](https://user-images.githubusercontent.com/72786548/96073587-edc48d80-0ed0-11eb-8c14-629601126ca8.png)
 
+## 13. Cek Versi Git
+Setelah proses instalasi selesai, Anda perlu mengecek apakah instalasi Git berhasil atau tidak. Anda bisa mengeceknya melalui **Command Prompt**. Klik Win+R lalu ketik **_CMD_** untuk membuka **Command Prompt** seperti di bawah ini.
+
+
+
+Selanjutnya masukkan perintah berikut untuk cek versi git dan cek apakah Git sudah terinstall di komputer Anda.
+
+git --version
