@@ -40,7 +40,7 @@ Kemudian untuk mengeksekusi SSH, Anda bisa menggunakan aplikasi dari Git atau  d
 
 ## 9. Pilih Line Ending
 Selanjutnya, Anda perlu memilih pengaturan line ending. Pada tutorial ini kami memilih **_Checkout Windows-style, commit Unix-style line endings_**. Klik **Next** untuk melanjutkan instalasi.
-
+![image](https://user-images.githubusercontent.com/72786548/96062441-e0eb6e00-0ebf-11eb-9755-9ee15aacaa77.png)
 
 ## 10. Pilih Emulator Terminal
 Setelah itu, Anda perlu memilih emulator terminal yang akan digunakan. Anda bisa menggunakan Command Prompt atau MinTTY. Karena ingin menggunakan Command Prompt, pada tutorial ini kami memilih **_Use Windows’ default console windows_**. Klik **Next** untuk melanjutkan instalasi.
