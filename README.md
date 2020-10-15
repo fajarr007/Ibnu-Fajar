@@ -1,6 +1,6 @@
 # Cara Menggunakan Git
 Git adalah salah satu software penting dalam pengembangan website. Fungsi Git adalah untuk mengatur versi dari source code program Anda dengan memberikan tanda baris dan kode mana yang ditambah atau diganti. Di artikel ini kami akan membahas lengkap soal Git, dari cara install Git, cara login ke Git, hingga cara menggunakan Git.
-## Cara Install Git di Windows dan Linux
+## Cara Install Git di Windows
 Sebelum mempelajari bagaimana cara menggunakan Git, Anda perlu menginstalnya terlebih dahulu di perangkat yang Anda gunakan. Anda bisa memasang Git baik di Windows maupun di Linux. Berikut adalah panduan memasang Git di kedua sistem operasi tersebut:
 
 ## Cara Install Git di Windows
@@ -76,3 +76,4 @@ Selanjutnya masukkan perintah berikut untuk cek versi git dan cek apakah Git sud
 
 git --version
 Jika Git berhasil terinstall, Anda akan melihat tampilan seperti di bawah ini yang menunjukkan versi Git.
+![image](https://user-images.githubusercontent.com/72786548/96074206-5102ef80-0ed2-11eb-8b08-4b7640522b15.png)
