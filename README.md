@@ -32,3 +32,15 @@ Untuk mengedit script melalui Git, Anda memerlukan file editor. Anda bebas mengg
 
 ## 7. Atur Path Environment
 Selanjutnya adalah pengaturan Path Environment. Path Environment berfungsi untuk mengeksekusi perintah perintah pada Git. Pilih **_Git from the command line and also from 3rd-party software_** agar saat menjalankan perintah Git dapat dikenali di **Command Prompt (CMD)**  
+
+
+## 8. Pilih Aplikasi SSH
+Kemudian untuk mengeksekusi SSH, Anda bisa menggunakan aplikasi dari Git atau  dari platform lain seperti PuTTY dan Bitvise. Pada tutorial ini kami menggunakan **_Use OpenSSH_**, aplikasi default SSH dari Git. Klik **Next untuk** melanjutkan instalasi.
+
+
+## 9. Pilih Line Ending
+Selanjutnya, Anda perlu memilih pengaturan line ending. Pada tutorial ini kami memilih **_Checkout Windows-style, commit Unix-style line endings_**. Klik **Next** untuk melanjutkan instalasi.
+
+
+## 10. Pilih Emulator Terminal
+Setelah itu, Anda perlu memilih emulator terminal yang akan digunakan. Anda bisa menggunakan Command Prompt atau MinTTY. Karena ingin menggunakan Command Prompt, pada tutorial ini kami memilih **_Use Windows’ default console windows_**. Klik **Next** untuk melanjutkan instalasi.
