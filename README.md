@@ -77,3 +77,23 @@ Selanjutnya masukkan perintah berikut untuk cek versi git dan cek apakah Git sud
 git --version
 Jika Git berhasil terinstall, Anda akan melihat tampilan seperti di bawah ini yang menunjukkan versi Git.
 ![image](https://user-images.githubusercontent.com/72786548/96074206-5102ef80-0ed2-11eb-8b08-4b7640522b15.png)
+
+
+## Cara Menggunakan Git
+Setelah berhasil install ke Git, selanjutnya kami akan memberikan 10 langkah menggunakan Git. Berikut ini adalah sembilang langkah menggunakan Git.
+
+## 1. Login Git
+Untuk login ke Git, Anda bisa menggunakan akun GitHub, Gitlab, atau Bitbucket. Jika belum memiliki akun dari ketiga platform tersebut, Anda bisa mendaftarkan diri terlebih dahulu. Selanjutnya Anda bisa melakukan login awal pada Git  menggunakan **Command Prompt**  (Windows) atau **Command Line** (Linux) . Kemudian masukkan perintah-perintah yang akan kami jelaskan di bawah ini.
+
+Selanjutnya, masukkan username GitHub Anda menggunakan perintah di bawah ini. Lalu tekan **ENTER** jika sudah benar.
+
+$ git config --global user.name "UsernameAnda"
+
+Kemudian masukkan email yang terdaftar di GitHub Anda menggunakan perintah di bawah  ini. Lalu tekan **ENTER** jika sudah benar.
+
+$ git config --global user.email IsiDenganEmailAnda@gmail.com
+
+Selanjutnya untuk memastikan proses login Anda berhasil, masukkan perintah berikut.
+$ git config --list
+
+
