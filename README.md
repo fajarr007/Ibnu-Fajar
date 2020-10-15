@@ -28,7 +28,7 @@ Sebenarnya Anda bebas mengganti nama aplikasi Git yang akan ditampilkan pada Sta
 
 ## 6. Tentukan File Editor
 Untuk mengedit script melalui Git, Anda memerlukan file editor. Anda bebas menggunakan file editor apa pun untuk dikombinasikan dengan Git. Pada tutorial ini, kami menggunakan Vim Editor. Klik Next apabila Anda sudah menentukan file editor yang akan Anda gunakan.
-
+![image](https://user-images.githubusercontent.com/72786548/96061433-66215380-0ebd-11eb-9384-66bc05c531c4.png)
 
 ## 7. Atur Path Environment
 Selanjutnya adalah pengaturan Path Environment. Path Environment berfungsi untuk mengeksekusi perintah perintah pada Git. Pilih **_Git from the command line and also from 3rd-party software_** agar saat menjalankan perintah Git dapat dikenali di **Command Prompt (CMD)**  
