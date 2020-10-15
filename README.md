@@ -35,8 +35,8 @@ Selanjutnya adalah pengaturan Path Environment. Path Environment berfungsi untuk
 ![image](https://user-images.githubusercontent.com/72786548/96061488-8c46f380-0ebd-11eb-885b-a64505f5b0d7.png)
 
 ## 8. Pilih Aplikasi SSH
-Kemudian untuk mengeksekusi SSH, Anda bisa menggunakan aplikasi dari Git atau  dari platform lain seperti PuTTY dan Bitvise. Pada tutorial ini kami menggunakan **_Use OpenSSH_**, aplikasi default SSH dari Git. Klik **Next untuk** melanjutkan instalasi.
-
+Kemudian untuk mengeksekusi SSH, Anda bisa menggunakan aplikasi dari Git atau  dari platform lain seperti PuTTY dan Bitvise. Pada tutorial ini kami menggunakan **_Use OpenSSH_**, aplikasi default SSH dari Git. Klik **Next** untuk melanjutkan instalasi.
+![image](https://user-images.githubusercontent.com/72786548/96061542-b8627480-0ebd-11eb-839b-0e140b1679f7.png)
 
 ## 9. Pilih Line Ending
 Selanjutnya, Anda perlu memilih pengaturan line ending. Pada tutorial ini kami memilih **_Checkout Windows-style, commit Unix-style line endings_**. Klik **Next** untuk melanjutkan instalasi.
