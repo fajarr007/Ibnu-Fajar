@@ -24,7 +24,7 @@ Kemudian pilih komponen tambahan untuk install Git. Fungsi komponen ini adalah u
 
 ## 5. Tentukan Nama Aplikasi Git
 Sebenarnya Anda bebas mengganti nama aplikasi Git yang akan ditampilkan pada Start Menu. Akan tetapi, demi kemudahan saat mencari aplikasi ini, sebaiknya gunakan nama Git saja.
-
+![image](https://user-images.githubusercontent.com/72786548/96060273-3886db00-0eba-11eb-9b64-634fc72469e2.png)
 
 ## 6. Tentukan File Editor
 Untuk mengedit script melalui Git, Anda memerlukan file editor. Anda bebas menggunakan file editor apa pun untuk dikombinasikan dengan Git. Pada tutorial ini, kami menggunakan Vim Editor. Klik Next apabila Anda sudah menentukan file editor yang akan Anda gunakan.
