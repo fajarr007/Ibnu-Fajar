@@ -70,8 +70,9 @@ Berikut ini adalah tampilan proses instalasi Git. Tunggu hingga proses selesai d
 ## 13. Cek Versi Git
 Setelah proses instalasi selesai, Anda perlu mengecek apakah instalasi Git berhasil atau tidak. Anda bisa mengeceknya melalui **Command Prompt**. Klik Win+R lalu ketik **_CMD_** untuk membuka **Command Prompt** seperti di bawah ini.
 
-
+![image](https://user-images.githubusercontent.com/72786548/96074172-392b6b80-0ed2-11eb-975c-ebc256eca7ae.png)
 
 Selanjutnya masukkan perintah berikut untuk cek versi git dan cek apakah Git sudah terinstall di komputer Anda.
 
 git --version
+Jika Git berhasil terinstall, Anda akan melihat tampilan seperti di bawah ini yang menunjukkan versi Git.
