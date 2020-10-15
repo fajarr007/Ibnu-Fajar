@@ -61,5 +61,5 @@ Terdapat beberapa opsi ekstra yang bisa Anda pilih. Pertama, pilih Enable File S
 ## 12. Mulai Proses Instalasi
 Setelah menambahkan konfigurasi ekstra pada Git, Anda bisa memulai proses instalasi Git. Klik **Install** untuk melanjutkan proses.
 
-
+![image](https://user-images.githubusercontent.com/72786548/96073104-f072b300-0ecf-11eb-911d-263380839a23.png)
 Berikut ini adalah tampilan proses instalasi Git. Tunggu hingga proses selesai dan Anda bisa menggunakan Git pada Windows.
