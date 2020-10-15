@@ -63,3 +63,5 @@ Setelah menambahkan konfigurasi ekstra pada Git, Anda bisa memulai proses instal
 
 ![image](https://user-images.githubusercontent.com/72786548/96073104-f072b300-0ecf-11eb-911d-263380839a23.png)
 Berikut ini adalah tampilan proses instalasi Git. Tunggu hingga proses selesai dan Anda bisa menggunakan Git pada Windows.
+![image](https://user-images.githubusercontent.com/72786548/96073587-edc48d80-0ed0-11eb-8c14-629601126ca8.png)
+
