@@ -44,3 +44,4 @@ Selanjutnya, Anda perlu memilih pengaturan line ending. Pada tutorial ini kami m
 
 ## 10. Pilih Emulator Terminal
 Setelah itu, Anda perlu memilih emulator terminal yang akan digunakan. Anda bisa menggunakan Command Prompt atau MinTTY. Karena ingin menggunakan Command Prompt, pada tutorial ini kami memilih **_Use Windows’ default console windows_**. Klik **Next** untuk melanjutkan instalasi.
+![image](https://user-images.githubusercontent.com/72786548/96062469-f2cd1100-0ebf-11eb-8b0d-873748716470.png)
