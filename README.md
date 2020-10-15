@@ -96,4 +96,6 @@ $ git config --global user.email IsiDenganEmailAnda@gmail.com
 Selanjutnya untuk memastikan proses login Anda berhasil, masukkan perintah berikut.
 $ git config --list
 
+![image](https://user-images.githubusercontent.com/72786548/96129126-6f8fd780-0f20-11eb-9be3-77a6831777b8.png)
+
 
