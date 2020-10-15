@@ -56,7 +56,7 @@ Setelah itu, Anda perlu memilih emulator terminal yang akan digunakan. Anda bisa
 ## 11. Tentukan Opsi ekstra
 Terdapat beberapa opsi ekstra yang bisa Anda pilih. Pertama, pilih Enable File System Caching agar Git memiliki fungsi system caching. Kedua, pilih Enable Git Credential Manager agar Git bisa dikombinasikan dengan aplikasi lain seperti Visual Studio, Android Studio, dan GitHub. Klik **Next** untuk melanjutkan instalasi.
 
-
+![image](https://user-images.githubusercontent.com/72786548/96073074-ddf87980-0ecf-11eb-9679-fb386260aa9f.png)
 
 ## 12. Mulai Proses Instalasi
 Setelah menambahkan konfigurasi ekstra pada Git, Anda bisa memulai proses instalasi Git. Klik **Install** untuk melanjutkan proses.
