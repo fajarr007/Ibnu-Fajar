@@ -31,8 +31,8 @@ Untuk mengedit script melalui Git, Anda memerlukan file editor. Anda bebas mengg
 ![image](https://user-images.githubusercontent.com/72786548/96061433-66215380-0ebd-11eb-9384-66bc05c531c4.png)
 
 ## 7. Atur Path Environment
-Selanjutnya adalah pengaturan Path Environment. Path Environment berfungsi untuk mengeksekusi perintah perintah pada Git. Pilih **_Git from the command line and also from 3rd-party software_** agar saat menjalankan perintah Git dapat dikenali di **Command Prompt (CMD)**  
-
+Selanjutnya adalah pengaturan Path Environment. Path Environment berfungsi untuk mengeksekusi perintah perintah pada Git. Pilih **_Git from the command line and also from 3rd-party software_** agar saat menjalankan perintah Git dapat dikenali di **Command Prompt (CMD)**.
+![image](https://user-images.githubusercontent.com/72786548/96061488-8c46f380-0ebd-11eb-885b-a64505f5b0d7.png)
 
 ## 8. Pilih Aplikasi SSH
 Kemudian untuk mengeksekusi SSH, Anda bisa menggunakan aplikasi dari Git atau  dari platform lain seperti PuTTY dan Bitvise. Pada tutorial ini kami menggunakan **_Use OpenSSH_**, aplikasi default SSH dari Git. Klik **Next untuk** melanjutkan instalasi.
